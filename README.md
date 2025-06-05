@@ -78,9 +78,9 @@ A Streamlit web application for advanced stock analytics, combining real-time pr
 
 ## Example
 
-![App1 Screenshot](Part1.jpg) 
-![App2 Screenshot](Part2.jpg) 
-![App3 Screenshot](Part3.jpg) 
+![App1 Screenshot](Part1.JPG) 
+![App2 Screenshot](Part2.JPG) 
+![App3 Screenshot](Part3.JPG) 
 
 
 ---
