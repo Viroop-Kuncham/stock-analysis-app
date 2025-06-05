@@ -95,7 +95,7 @@ A Streamlit web application for advanced stock analytics, combining real-time pr
 
 ```
 Stock_Analysis_App.py
-requirements.txt
+LICENSE
 README.md
 ```
 
